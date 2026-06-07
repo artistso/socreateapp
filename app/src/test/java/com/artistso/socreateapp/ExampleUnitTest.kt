@@ -1,4 +1,4 @@
-package com.example.myapp
+package com.artistso.socreateapp
 
 import org.junit.Assert.assertEquals
 import org.junit.Test

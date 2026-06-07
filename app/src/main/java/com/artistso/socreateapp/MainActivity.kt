@@ -1,8 +1,8 @@
-package com.example.myapp
+package com.artistso.socreateapp
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.example.myapp.databinding.ActivityMainBinding
+import com.artistso.socreateapp.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
